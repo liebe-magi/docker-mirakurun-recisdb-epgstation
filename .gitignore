@@ -1,3 +1,13 @@
 # config
 /config/mirakurun/data/*
 !/config/mirakurun/data/.gitkeep
+/config/epgstation/data/*
+!/config/epgstation/data/.gitkeep
+/config/epgstation/logs/*
+!/config/epgstation/logs/.gitkeep
+/config/epgstation/thumbnail/*
+!/config/epgstation/thumbnail/.gitkeep
+
+# recorded
+/recorded/*
+!/recorded/.gitkeep
