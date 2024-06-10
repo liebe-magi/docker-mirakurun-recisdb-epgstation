@@ -1,0 +1,3 @@
+# config
+/config/mirakurun/data/*
+!/config/mirakurun/data/.gitkeep
